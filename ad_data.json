@@ -1,0 +1,21 @@
+{
+  "title": "Название вашего объявления",
+  "description": "Подробное описание объявления. Можно использовать несколько строк и добавить детальную информацию о товаре или услуге.",
+  "price": "100",
+  "postcode": "AB12 3CD",
+  "contact_name": "Ваше имя",
+  "phone_number": "07123456789",
+  "category_url": "https://www.gumtree.com/post-ad/uk/category/subcategory",
+  "image_paths": [
+    "/полный/путь/к/изображению1.jpg",
+    "/полный/путь/к/изображению2.jpg"
+  ],
+  "additional_fields": {
+    "field_id_1": "значение_1",
+    "field_id_2": "значение_2"
+  },
+  "dropdowns": {
+    "dropdown_id_1": "Видимый текст опции 1",
+    "dropdown_id_2": "Видимый текст опции 2"
+  }
+}
